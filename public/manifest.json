@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "World Clock",
+  "description": "Simple and easy to use world clock Chrome extension",
+  "version": "0.0.1",
+  "icons": { "16": "icon16.png", "48": "icon48.png", "128": "icon128.png" },
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Open the popup"
+  }
+}
